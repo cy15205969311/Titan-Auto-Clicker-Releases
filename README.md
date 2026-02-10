@@ -55,9 +55,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/cy15205969311/Titan-Auto-Clicker-Releases/releases/download/v1.0/screenshot_01_home_02.jpg" width="200"/></td>
-    <td><img src="https://github.com/cy15205969311/Titan-Auto-Clicker-Releases/releases/download/v1.0/screenshot_02_multipoint.jpg" width="200"/></td>
-    <td><img src="https://github.com/cy15205969311/Titan-Auto-Clicker-Releases/releases/download/v1.0/screenshot_03_add_point.jpg" width="200"/></td>
+    <td><img src="screenshots/screenshot_01_home_02.jpg" width="200"/></td>
+    <td><img src="screenshots/screenshot_02_multipoint.jpg" width="200"/></td>
+    <td><img src="screenshots/screenshot_03_add_point.jpg" width="200"/></td>
   </tr>
   <tr>
     <td align="center">首页 - 防检测设置</td>
@@ -68,9 +68,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/cy15205969311/Titan-Auto-Clicker-Releases/releases/download/v1.0/screenshot_04_floating.jpg" width="200"/></td>
-    <td><img src="https://github.com/cy15205969311/Titan-Auto-Clicker-Releases/releases/download/v1.0/screenshot_05_crosshair.jpg" width="200"/></td>
-    <td><img src="https://github.com/cy15205969311/Titan-Auto-Clicker-Releases/releases/download/v1.0/screenshot_07_settings.jpg" width="200"/></td>
+    <td><img src="screenshots/screenshot_04_floating.jpg" width="200"/></td>
+    <td><img src="screenshots/screenshot_05_crosshair.jpg" width="200"/></td>
+    <td><img src="screenshots/screenshot_07_settings.jpg" width="200"/></td>
   </tr>
   <tr>
     <td align="center">悬浮窗控制</td>
